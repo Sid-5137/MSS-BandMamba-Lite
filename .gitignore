@@ -34,18 +34,6 @@ Datasets/
 *.feather
 *.pkl
 
-weights/
-Model_Weights/
-models/
-*.pt
-*.pth
-*.ckpt
-*.onnx
-*.pb
-*.tflite
-*.joblib
-*.bin
-
 wandb/
 mlruns/
 tensorboard/
